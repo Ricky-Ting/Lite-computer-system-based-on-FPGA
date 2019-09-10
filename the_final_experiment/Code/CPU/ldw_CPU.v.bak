@@ -1,0 +1,5 @@
+module ldw_CPU(clock, memclock, resetn, pc, inst, ealu, malu, walu);
+	input clock, memclock, resetn;
+	output [31:0] pc, inst, ealu, malu, walu;
+	wire [31:0] bpc, jpc, npc, pc4, ins, dpc4, inst, da, db, dimm, ea, eb, eimm; 
+endmodule 

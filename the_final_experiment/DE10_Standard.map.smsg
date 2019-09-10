@@ -1,0 +1,12 @@
+Info (10281): Verilog HDL Declaration information at Sound.v(36): object "PS2_CLK" differs only in case from object "ps2_clk" in the same scope File: C:/the_final_experiment/Code/IO/Sound.v Line: 36
+Info (10281): Verilog HDL Declaration information at ldw_PC.v(4): object "pc" differs only in case from object "PC" in the same scope File: C:/the_final_experiment/Code/CPU/IF/ldw_PC.v Line: 4
+Info (10281): Verilog HDL Declaration information at ldw_CPU.v(3): object "pc" differs only in case from object "PC" in the same scope File: C:/the_final_experiment/Code/CPU/ldw_CPU.v Line: 3
+Info (10281): Verilog HDL Declaration information at ldw_CPU.v(12): object "mwreg" differs only in case from object "MWReg" in the same scope File: C:/the_final_experiment/Code/CPU/ldw_CPU.v Line: 12
+Info (10281): Verilog HDL Declaration information at IO_System.v(53): object "Addr" differs only in case from object "addr" in the same scope File: C:/the_final_experiment/Code/IO/IO_System.v Line: 53
+Info (10281): Verilog HDL Declaration information at Keyboard.v(7): object "d1" differs only in case from object "D1" in the same scope File: C:/the_final_experiment/Code/IO/Keyboard/Keyboard.v Line: 7
+Info (10281): Verilog HDL Declaration information at Keyboard.v(8): object "d2" differs only in case from object "D2" in the same scope File: C:/the_final_experiment/Code/IO/Keyboard/Keyboard.v Line: 8
+Info (10281): Verilog HDL Declaration information at Keyboard.v(9): object "d3" differs only in case from object "D3" in the same scope File: C:/the_final_experiment/Code/IO/Keyboard/Keyboard.v Line: 9
+Info (10281): Verilog HDL Declaration information at Keyboard.v(10): object "d4" differs only in case from object "D4" in the same scope File: C:/the_final_experiment/Code/IO/Keyboard/Keyboard.v Line: 10
+Info (10281): Verilog HDL Declaration information at Keyboard.v(11): object "d5" differs only in case from object "D5" in the same scope File: C:/the_final_experiment/Code/IO/Keyboard/Keyboard.v Line: 11
+Info (10281): Verilog HDL Declaration information at Keyboard.v(12): object "d6" differs only in case from object "D6" in the same scope File: C:/the_final_experiment/Code/IO/Keyboard/Keyboard.v Line: 12
+Info (10281): Verilog HDL Declaration information at VGA.v(64): object "addr" differs only in case from object "Addr" in the same scope File: C:/the_final_experiment/Code/IO/VGA.v Line: 64

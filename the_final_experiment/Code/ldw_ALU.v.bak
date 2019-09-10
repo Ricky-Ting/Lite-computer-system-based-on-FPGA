@@ -1,0 +1,7 @@
+module ldw_ALU(a, b, op, r, z);
+	input [31:0] a, b;
+	input [3:0] op;
+	output [31:0] r;
+	output z;
+	
+endmodule 

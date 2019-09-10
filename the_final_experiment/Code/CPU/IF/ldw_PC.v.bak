@@ -1,0 +1,3 @@
+module ldw_PC(npc, wpc, clk, clrn, pc);
+	
+endmodule 

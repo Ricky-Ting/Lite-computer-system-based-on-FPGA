@@ -1,0 +1,8 @@
+module ldw_Men(we, addr, datain, clk, inclk, outclk, dataout) ; 
+	input [31:0] addr, datain;
+	input clk, we, inclk, outclk;
+	output [31:0] dataout;
+	
+	
+	
+endmodule 

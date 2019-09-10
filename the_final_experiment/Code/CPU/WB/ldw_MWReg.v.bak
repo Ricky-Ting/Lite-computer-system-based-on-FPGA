@@ -1,0 +1,1 @@
+module ldw_MWReg(mwreg, mm2reg, mmo, malu, mrn, clk, clrn, wwreg, wm2reg, wmo, walu, wrn) ; 

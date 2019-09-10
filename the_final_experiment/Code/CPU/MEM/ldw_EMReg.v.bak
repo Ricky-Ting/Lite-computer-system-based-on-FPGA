@@ -1,0 +1,3 @@
+module ldw_EMReg(ewreg, em2reg, ewmem, ealu, eb, ern, clk, clrn, mwreg, mm2reg, mwmem, malu, mb, mrn);
+	
+endmodule 

@@ -1,0 +1,16 @@
+module ldw_CU(mwreg, mrn, ern, ewreg, em2reg, mm2reg,
+					rsrtequ, func, op, rs, rt, wreg, m2reg,
+					wmem, aluc, regrt, aluimm, fwda, fwdb, 
+					nostall, sext, pcsource, shift, jal);
+	input mwreg, ewreg, em2reg, mm2reg, rsrtequ;
+	input [4:0] mrn, ern, rs, rt;
+	output wreg, m2reg, wmem, regrt, aluimm, sext, shift, jal;
+	output [3:0] aluc;
+	output [1:0] pcsource;
+	output [1:0] fwda, fwdb;
+	output nostall;
+	reg [1:0] fwda, fwdb;
+	wire r_type, i_add, i_sub, i_and, i_or, i_xor, i_sll, i_srl, i_sra, i_jr;
+	wire i_addi, i_andi, i_ori, i_xori, i_lw, i_sw, i_ beq, i_bne, i_lui, i_j, i_jal;
+	
+endmodule 

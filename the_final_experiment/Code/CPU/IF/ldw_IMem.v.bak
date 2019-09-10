@@ -1,0 +1,7 @@
+module ldw_IMem(a, inst);
+	input [31:0] a;
+	output [31:0] inst;
+	
+	
+	
+endmodule 

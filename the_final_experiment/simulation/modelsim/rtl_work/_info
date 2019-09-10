@@ -1,0 +1,33 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/program_learning/verilog/My_design/the_final_experiment/simulation/modelsim
+vldw_ALU
+!s110 1544015449
+!i10b 1
+!s100 hiO7OmY8OfmfLIz@en[4`2
+I`68IZnYVj[0a15YThD7@R2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1543844459
+8D:/program_learning/verilog/My_design/the_final_experiment/Code/ldw_ALU.v
+FD:/program_learning/verilog/My_design/the_final_experiment/Code/ldw_ALU.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1544015449.000000
+!s107 D:/program_learning/verilog/My_design/the_final_experiment/Code/ldw_ALU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/program_learning/verilog/My_design/the_final_experiment/Code|D:/program_learning/verilog/My_design/the_final_experiment/Code/ldw_ALU.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/program_learning/verilog/My_design/the_final_experiment/Code
+tCvgOpt 0
+nldw_@a@l@u
